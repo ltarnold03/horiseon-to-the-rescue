@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Apply styles to the <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,8 @@ body {
     margin-left: 25px;
 }
 
+/*End of <header> */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Start Hero Style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -187,6 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* End of Hero Style*/
 
 .footer {
     padding: 30px;
