@@ -90,106 +90,132 @@ p {
     background-color: #2589bd;
 }
 
+/* add this alongside your other declarations */
+.benefit-content {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* remove this entire CSS rule */
 .benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
+
 }
 
+/* and this one */
 .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
+
 }
 
+/* and this one */
 .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+
 }
 
+/* add this alongside your other declarations */
+.benefit-content h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* remove this entire CSS rule */
 .benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
+
 }
 
+/* and this one */
 .benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
+
 }
 
+/* and this one */
 .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
+
 }
 
+/* add this alongside your other declarations */
+.benefit-content img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* remove this entire CSS rule */
 .benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+
 }
 
+/* and this one */
 .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+
 }
 
 .benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+
 }
 
+/* add this alongside your other declarations */
+.hero-content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* remove this entire CSS rule */
 .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+
 }
 
+/* and this one */
 .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+
 }
 
+/* and this one */
 .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+
 }
 
+/* add this alongside your other declarations */
+.hero-content img {
+    max-height: 200px;
+}
+/* remove this entire CSS rule */
 .search-engine-optimization img {
-    max-height: 200px;
+
 }
 
+/* and this one */
 .online-reputation-management img {
-    max-height: 200px;
+
 }
 
+/* and this one */
 .social-media-marketing img {
-    max-height: 200px;
+
 }
 
+/* add this alongside your other declarations */
+.hero-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* remove the entire CSS rule */
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+
 }
 
+/* and this one */
 .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+
 }
 
+/* and this one */
 .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+
 }
 
 /* End of Hero Style*/
