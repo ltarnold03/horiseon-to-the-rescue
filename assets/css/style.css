@@ -1,0 +1,232 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+/* Apply styles to the <header> */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/*End of <header> */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Start Hero Style*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* add this alongside your other declarations */
+.benefit-content {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* remove this entire CSS rule */
+.benefit-lead {
+
+}
+
+/* and this one */
+.benefit-brand {
+
+}
+
+/* and this one */
+.benefit-cost {
+
+}
+
+/* add this alongside your other declarations */
+.benefit-content h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* remove this entire CSS rule */
+.benefit-lead h3 {
+
+}
+
+/* and this one */
+.benefit-brand h3 {
+
+}
+
+/* and this one */
+.benefit-cost h3 {
+
+}
+
+/* add this alongside your other declarations */
+.benefit-content img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* remove this entire CSS rule */
+.benefit-lead img {
+
+}
+
+/* and this one */
+.benefit-brand img {
+
+}
+
+.benefit-cost img {
+
+}
+
+/* add this alongside your other declarations */
+.hero-content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* remove this entire CSS rule */
+.search-engine-optimization {
+
+}
+
+/* and this one */
+.online-reputation-management {
+
+}
+
+/* and this one */
+.social-media-marketing {
+
+}
+
+/* add this alongside your other declarations */
+.hero-content img {
+    max-height: 200px;
+}
+/* remove this entire CSS rule */
+.search-engine-optimization img {
+
+}
+
+/* and this one */
+.online-reputation-management img {
+
+}
+
+/* and this one */
+.social-media-marketing img {
+
+}
+
+/* add this alongside your other declarations */
+.hero-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* remove the entire CSS rule */
+.search-engine-optimization h2 {
+
+}
+
+/* and this one */
+.online-reputation-management h2 {
+
+}
+
+/* and this one */
+.social-media-marketing h2 {
+
+}
+
+/* End of Hero Style*/
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
